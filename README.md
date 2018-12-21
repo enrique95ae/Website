@@ -1,1 +1,1 @@
-Basics version - Outdated.
+Basic version - Outdated.
